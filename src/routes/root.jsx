@@ -60,7 +60,7 @@ export default function Root() {
           )}
             <ul>
               <li>
-                <Link to={`/contacts/1`}>Your Name</Link>
+                <Link to={`/contacts/1`}>Your Nameasasa</Link>
               </li>
               <li>
                 <Link to={`/contacts/2`}>Your Friend</Link>
