@@ -68,7 +68,7 @@ export default function Root() {
             </ul>
           </nav>
         </div>
-        <div id="detail"></div>
+        
         <Outlet />
       </>
     );
